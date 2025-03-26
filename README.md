@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://imgcdn.stablediffusionweb.com/2024/11/8/34861614-8a11-4464-966b-9162cc23effb.jpg" alt="Naruto coding'" />
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTRreThjbnl2dDQyZnMxYTJwaTNlYWsxMXM5OXJsNm52MXczcG12MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/w7CP59oLYw6PK/giphy.gif" alt="Naruto coding'" />
 </p>
 
 # Tech stack
